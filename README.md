@@ -1,5 +1,4 @@
-Project Solution
-Blog posting web application is build in Flask, Database is designed in sqlite3 using Python SQLAlchemy toolkit for Object Relational Mapping.
+Blog posting web application is built in Flask, Database is designed in sqlite3 using Python SQLAlchemy toolkit for Object Relational Mapping.
 Login implementation is done using Flask Login library.
 Database has 2 models User and Blogpost.
 
